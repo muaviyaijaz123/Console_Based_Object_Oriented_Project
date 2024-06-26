@@ -1,4 +1,4 @@
-# Console-Based Social Network Application
+# Object-Oriented-Based Social Network Application
 
 ## Description
 This project is a console-based application developed in C++ using Visual Studio. The primary goal was to implement various object-oriented programming techniques to create a mini version of Facebook's functionality.
